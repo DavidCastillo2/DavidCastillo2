@@ -24,6 +24,12 @@ I am a strong advocate for accesibility and ease of use. Forgetting things or ha
 </p>
 
 
+## :sparkling_heart:Favorite Projects:sparkling_heart:
+- [Creating AI to play games against eachother](https://github.com/DavidCastillo2/AI-Game-Playing)
+- [Caucus Website](https://github.com/DavidCastillo2/caucusWebsite) - Created as a team for Sofware Engineering at NCF
+- [Handwritting To Number](https://github.com/DavidCastillo2/HandwrittingToNumber) - Followed and tweaked a Guide From [Amitrajit Bose](https://towardsdatascience.com/handwritten-digit-mnist-pytorch-977b5338e627) and will follow this with something more my own
+- [Solving Number Theory Step By Step](https://github.com/DavidCastillo2/NumberTheory)
+- [Generating Solvable Mazes](https://github.com/DavidCastillo2/OODFinalProject2)
 
 
 
