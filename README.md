@@ -38,6 +38,7 @@ I am a strong advocate for accessibility and ease of use. Forgetting things or h
 - [Handwritting To Number](https://github.com/DavidCastillo2/HandwrittingToNumber) - Followed and tweaked a Guide From [Amitrajit Bose](https://towardsdatascience.com/handwritten-digit-mnist-pytorch-977b5338e627) and will follow this with something more my own
 - [Solving Number Theory Step By Step](https://github.com/DavidCastillo2/NumberTheory)
 - [Generating Solvable Mazes](https://github.com/DavidCastillo2/OODFinalProject2)
+- [Scraping Prices Into DB Using Docker](https://github.com/Karsenity/GroceryApp) - Group Project With Austin Lopresto
 
 
 
