@@ -33,6 +33,7 @@ I am a strong advocate for accessibility and ease of use. Forgetting things or h
 
 
 ## :sparkling_heart:Favorite Projects:sparkling_heart:
+- [Dirty Dishes To Clean Dishes Using Pix2Pix](https://github.com/DavidCastillo2/CleanDishes)
 - [AI Playing Games Against One Another](https://github.com/DavidCastillo2/AI-Game-Playing/tree/CastleUpdated)
 - [Caucus Website](https://github.com/DavidCastillo2/caucusWebsite) - Created as a team for Sofware Engineering at NCF
 - [Handwritting To Number](https://github.com/DavidCastillo2/HandwrittingToNumber) - Followed and tweaked a Guide From [Amitrajit Bose](https://towardsdatascience.com/handwritten-digit-mnist-pytorch-977b5338e627) and will follow this with something more my own
@@ -43,18 +44,3 @@ I am a strong advocate for accessibility and ease of use. Forgetting things or h
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidCastillo2&show_icons=true&theme=tokyonight)
-
-<!--
-**DavidCastillo2/DavidCastillo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
